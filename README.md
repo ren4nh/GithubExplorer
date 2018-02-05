@@ -1,2 +1,2 @@
-# githubExplorer
-A Sample of github explorer utilizing React Native
+# GithubExplorer
+A Sample of github explorer using React Native
